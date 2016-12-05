@@ -1,0 +1,12 @@
+
+
+/*Crear icono*/
+.crearalerta{
+    width: 100%;
+}
+
+.crearalerta select, .crearalerta textarea{
+    width: 90%;
+    
+}
+
